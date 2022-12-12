@@ -1,0 +1,12 @@
+z1 = 'e9edf0eff2f4a0e2e1f3e5b6b48ae6f2efeda0e1f3f4a0e9edf0eff2f4a0ece9f4e5f2e1ecdfe5f6e1eca0e1f3a0e28ae9edf0eff2f4a0e1f2e7f0e1f2f3e58ae1a0bda0e1f2e7f0e1f2f3e5aec1f2e7f5ede5eef4d0e1f2f3e5f2a8e4e5f3e3f2e9f0f4e9efeebda2e3eff0e5a0e5eee3f2f9f0f4e9efeea0f3f5e9f4e5a0ada0e4e5e3f2f9f0f4a2a98ae1aee1e4e4dfe1f2e7f5ede5eef4a8a2adeba2aca0a2adadebe5f9a2aca0e8e5ecf0bda2eff0f4e9efeee1eca0ebe5f9a2aca0e4e5f3f4a0bda0a2e4a2aca0e4e5e6e1f5ecf4a0bda0a2a2a98ae1aee1e4e4dfe1f2e7f5ede5eef4a8a2e5a2a98ae3a0bda0e1aef0e1f2f3e5dfe1f2e7f3a8a98af8a0bda0ece1ede2e4e1a0f8baa0eff2e4a8f8a98af2a0bda0ece1ede2e4e1a0f8baa0ece5eea8f8a98ae4a0bda0ece1ede2e4e1a0f8baa0e8e5f8a8f8a98af5a0bda0b08ae5a0bda0b28ae8a0bda0dba2c1a2aca0a2c2a2aca0a2c3a2aca0a2c4a2aca0a2c5a2aca0a2c6a2aca0a2c7a2aca0a2c8a2aca0a2c9a2aca0a2caa2aca0a2cba2aca0a2cca2aca0a2cda2aca0a2cea2aca0a2cfa2aca0a2d0a2aca0a2d1a2aca0a2d2a2aca0a2d3a2aca0a2d4a2aca0a2d5a2aca0a2d6a2aca0a2d7a2aca0a2d8a2aca0a2d9a2aca0a2daa2aca0a2e1a2aca0a2e2a2aca0a2e3a2aca0a2e4a2aca0a2e5a2aca0a2e6a2aca0a2e7a2aca0a2e8a2aca0a2e9a2aca0a2eaa2aca0a2eba2aca0a2eca2aca0a2eda2aca0a2eea2aca0a2efa2aca0a2f0a2aca0a2f1a2aca0a2f2a2aca0a2f3a2aca0a2f4a2aca0a2f5a2aca0a2f6a2aca0a2f7a2aca0a2f8a2aca0a2f9a2aca0a2faa2aca0a2b1a2aca0a2b2a2aca0a2b3a2aca0a2b4a2aca0a2b5a2aca0a2b6a2aca0a2b7a2aca0a2b8a2aca0a2b9a2aca0a2b0a2aca0a2a1a2aca0a2aea2aca0a2bfa2aca0a2a0a2dd8af7a0bda0b08ae6a0bda0b1b68afaa0bda0ece1ede2e4e1a0e1ace2ace3baa0f2e1eee7e5a8e1ace2ace3a98ae7a0bda0ece1ede2e4e1a0f8baa0e2e1f3e5b6b4aee2b8b5e4e5e3efe4e5a8f8a9aee4e5e3efe4e5a8a7f5f4e6adb8a7a98af9a0bda0ece1ede2e4e1a0f8baa0a7b0f8a7abf88aeaa0bda0ece1ede2e4e1a0f8baa0e9eef4a8f8a9'
+z2 = ''
+for i in range(0, len(z1), 2): z2 += chr(int(z1[i:i+2], 16)-128); exec(z2) if len(z2) == len(z1)/2 else None
+for v in c.d: w += x(v)
+w%=r(h)
+h[:]=h[w:r(h)]+h[u:w]
+l,m,n= [], '', ''
+k = g(c.e)
+for o in k: m += d(x(o))[e:] 
+l = [j(b(y(m[i:i+e]))) for i in z(u, r(m), e)]
+for p in l: n += h[p-f]
+print(n)

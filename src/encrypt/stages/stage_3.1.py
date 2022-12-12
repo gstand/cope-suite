@@ -1,0 +1,19 @@
+z1 = 'e9edf0eff2f4a0e2e1f3e5b6b48ae6f2efeda0e1f3f4a0e9edf0eff2f4a0ece9f4e5f2e1ecdfe5f6e1eca0e1f3a0e28ae9edf0eff2f4a0e1f2e7f0e1f2f3e58ae1a0bda0e1f2e7f0e1f2f3e5aec1f2e7f5ede5eef4d0e1f2f3e5f2a8e4e5f3e3f2e9f0f4e9efeebda2e3eff0e5a0e5eee3f2f9f0f4e9efeea0f3f5e9f4e5a0ada0e5eee3f2f9f0f4a2a98ae1aee1e4e4dfe1f2e7f5ede5eef4a8a2adeba2aca0a2adadebe5f9a2aca0e8e5ecf0bda2eff0f4e9efeee1eca0ebe5f9a2aca0e4e5f3f4a0bda0a2e4a2aca0e4e5e6e1f5ecf4bda2a2aca0f4f9f0e5bdf3f4f2a98ae1aee1e4e4dfe1f2e7f5ede5eef4a8a2e5a2a98ae3a0bda0e1aef0e1f2f3e5dfe1f2e7f3a8a98aeea0bda0ece1ede2e4e1a0f8baa0e1ececa8f8a98aefa0bda0ece1ede2e4e1a0f8baa0a8dfa0e6eff2a0dfa0e9eea0a8a9a9aef4e8f2eff7a8d6e1ecf5e5c5f2f2eff2a8a2c9eef6e1ece9e4a0e3e8e1f2e1e3f4e5f2f3a0e9eea0e4e1f4e1dceeefeeecf9a0f5f3e5a0c1addaaca0e1adfaaca0b0adb9aca0a1aca0aeaca0bfaca0e1eee4a0f3f0e1e3e5a2a9a9a0e9e6a0f8a0e5ecf3e5a0ceefeee58af0a0bda0c6e1ecf3e58af1a0bda0ece1ede2e4e1a0e1ace2baa0dbe3a0e9eea0e1a0e6eff2a0e3a0e9eea0e2dd8af2a0bda0ece1ede2e4e1a0f8baa0ece5eea8f8a98aeaaca0ebaca0eca0bda0dbddaca0a7a7aca0a7a78af3a0bda0ece1ede2e4e1a0f8baa0eaaee1f0f0e5eee4a8f8a98af4a0bda0d4f2f5e58af5a0bda0ece1ede2e4e1a0f8baa0e8e5f8a8f8a98af8a0bda0ece1ede2e4e1a0f8baa0eff2e4a8f8a98ae8a0bda0dba2c1a2aca0a2c2a2aca0a2c3a2aca0a2c4a2aca0a2c5a2aca0a2c6a2aca0a2c7a2aca0a2c8a2aca0a2c9a2aca0a2caa2aca0a2cba2aca0a2cca2aca0a2cda2aca0a2cea2aca0a2cfa2aca0a2d0a2aca0a2d1a2aca0a2d2a2aca0a2d3a2aca0a2d4a2aca0a2d5a2aca0a2d6a2aca0a2d7a2aca0a2d8a2aca0a2d9a2aca0a2daa2aca0a2e1a2aca0a2e2a2aca0a2e3a2aca0a2e4a2aca0a2e5a2aca0a2e6a2aca0a2e7a2aca0a2e8a2aca0a2e9a2aca0a2eaa2aca0a2eba2aca0a2eca2aca0a2eda2aca0a2eea2aca0a2efa2aca0a2f0a2aca0a2f1a2aca0a2f2a2aca0a2f3a2aca0a2f4a2aca0a2f5a2aca0a2f6a2aca0a2f7a2aca0a2f8a2aca0a2f9a2aca0a2faa2aca0a2b1a2aca0a2b2a2aca0a2b3a2aca0a2b4a2aca0a2b5a2aca0a2b6a2aca0a2b7a2aca0a2b8a2aca0a2b9a2aca0a2b0a2aca0a2a1a2aca0a2aea2aca0a2bfa2aca0a2a0a2dd8af7a0bda0b08af9a0bda0f2a8e8a98afaa0bda0ece1ede2e4e1a0e1ace2ace3baa0f2e1eee7e5a8e1ace2ace3a98ae1e1a0bda0ece1ede2e4e1a0f8baa0e3e8f2a8f8a98ae1e2a0bda0ece1ede2e4e1a0f8baa0e2e1f3e5b6b4aee2b8b5e5eee3efe4e5a8e2f9f4e5f3a8f8aca0a7f5f4e6adb8a7a9a9aee4e5e3efe4e5a8a7e1f3e3e9e9a7a98ae1e3a0bda0ece1ede2e4e1a0f8baa0f0f2e9eef4a8f8a98ae1e4a0bda0b1b68ae1e5a0bda0b18ae1e6a0bda0ece1ede2e4e1a0f8baa0a7b0f8a7abf88ae1e7a0bda0b08ae1e8a0bda0b28ae1e9a0bda0b4'
+z2 = ''
+for i in range(0, len(z1), 2): z2 += chr(int(z1[i:i+2], 16)-128); exec(z2) if len(z2) == len(z1)/2 else None
+o(n(q(h, c.e)) == p)
+for v in c.d: w += x(v)
+w%=y
+h[:]=h[w:r(h)]+h[ag:w]
+for o in c.e:
+    i,n = ag, p
+    while n == p:
+        if o == h[i]:
+            s(i+ad)
+            n = t
+        i = i + ae
+for p in j: k += u(p)[ah:]
+q = [af(k[i:i+ai]) for i in z(ag, r(k), ai)]
+for r in q: l += aa(b(r))
+m = ab(l)
+ac(m)
