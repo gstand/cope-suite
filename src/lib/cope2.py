@@ -27,7 +27,7 @@ def encode(toencode: str, offset: int, pagesize: int) -> [str, int, int, bool]:
     '''Encode the following string into a COPE² hexstring with the provided offset and pagesize.
     Returns the encoded string, the offset and page size if its automatically changed to ensure safety, and a bool to show if these changes have happened.'''
     safe = validateValues(toencode, offset, pagesize)
-    tampered = False
+    tampered = False # its actually line 36 i forgot to update that my fault
     if not safe:
         vals = findLimits(data, pagesize)
         offset = vals[0] 
